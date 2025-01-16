@@ -108,6 +108,7 @@ a {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  align-items: center;
 }
 .banner__btn {
   width: 182px;
