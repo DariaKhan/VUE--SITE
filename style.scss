@@ -718,6 +718,10 @@ a {
   flex-direction: row;
   gap: 52px;
 
+  &__info-box {
+    width: 840px;
+  }
+
   &__box {
     display: flex;
     flex-direction: column;

@@ -665,6 +665,9 @@ a {
   flex-direction: row;
   gap: 52px;
 }
+.blog-article__info-box {
+  width: 840px;
+}
 .blog-article__box {
   display: flex;
   flex-direction: column;
